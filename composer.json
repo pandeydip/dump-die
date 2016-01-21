@@ -1,6 +1,13 @@
 {
     "name": "pandeydip/dump-die",
     "description": "Uses Symfony var dumper and use die to dump and stop code execution",
+    "type": "library",
+    "keywords": [
+        "dump",
+        "vardump",
+        "die",
+        "dumpdie"
+    ],
     "license": "MIT",
     "authors": [
         {
